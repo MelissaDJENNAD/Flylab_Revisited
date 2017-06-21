@@ -1,0 +1,21 @@
+{
+  "name": "front_exo",
+  "version": "1.0.0",
+  "description": " ",
+  "main": " ",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
